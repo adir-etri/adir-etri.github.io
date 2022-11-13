@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Page List
-+[Peope](./people.md).
+[+**People**](./people.md)
 
 
 ## People
