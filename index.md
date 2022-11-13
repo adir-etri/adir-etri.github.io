@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[## Test](./people.md).
+## Page List
++[Peope](./people.md).
 
 
 ## People
