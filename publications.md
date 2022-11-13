@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Publications
+
 \* corresponding author
 
 + **[Conf.] <ins>D. Choi</ins>\*, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," ECCV22.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
