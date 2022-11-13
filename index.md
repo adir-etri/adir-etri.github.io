@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Test
-[Link to another page](./people.html).
+[Link to another page](./people.md).
 
 
 ## People
