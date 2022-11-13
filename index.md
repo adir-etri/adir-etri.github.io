@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Test
-[Link to another page](./people.md).
+[## Test](./people.md).
 
 
 ## People
