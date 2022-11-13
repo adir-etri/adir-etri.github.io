@@ -1,3 +1,11 @@
+---
+layout: default
+---
+
+## Test
+[Link to another page](./people.html).
+
+
 ## People
 + **Principal Investigator**
 
