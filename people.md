@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
 ---
 
-## Welcome to another page
+## People
++ **Principal Investigator**
 
-_yay_
+    [Dooseop Choi](https://d1024choi.github.io) (e-mail: d1024.choi@etri.re.kr)
+
++ **Student**
 
 [back](./)
