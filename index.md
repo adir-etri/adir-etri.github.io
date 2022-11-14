@@ -9,5 +9,7 @@ layout: default
 ## Page List
 [+**People**](./people.md)
 
+[+**Research Topics**](./researches.md)
+
 [+**Publications**](./publications.md)
 
