@@ -6,7 +6,7 @@ layout: default
 + **Principal Investigator**
 
 **Align left:**
-<p align="left" width="100%">
+<p align="left" width="50%">
     <img width="33%" src="./images/DChoi.PNG">
 </p>
 
