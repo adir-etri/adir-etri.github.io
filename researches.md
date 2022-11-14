@@ -17,3 +17,6 @@
 ## Neural Motion Planning
 
 ![fig2](./images/NMP.png)
+
+
+[back](./)
