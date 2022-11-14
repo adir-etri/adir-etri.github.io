@@ -5,7 +5,7 @@ layout: default
 ## People
 + **Principal Investigator**
  
- <img align="left" width="100" height="100" src="./images/DChoi.PNG">
+ <img align="left" width="166" height="222" src="./images/DChoi.PNG">
  
 ![DChoi](./images/DChoi.PNG)
 
