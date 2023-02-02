@@ -6,7 +6,7 @@ layout: default
 
 \* corresponding author
 
-+ **[Intl. Jour.] T. An, J, Kang, <ins>D. Choi</ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal.**
++ **[Intl. Jour.] T. An, J, Kang, D. Choi, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal.**
 
 + **[Intl. Conf.] D. Choi\*, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," ECCV 2022.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
 
