@@ -8,7 +8,7 @@ layout: default
 
 ## Notice
 
-**I am looking to recruit Master/PhD students in 2023. If you are interested in our research, please do not hesitate to contact me at d1024.choi@etri.re.kr**
+**I am looking to recruit Master/PhD students in 2023. If you are interested in our research, please do not hesitate to contact me at d1024.choi@etri.re.kr / d1024.choi@ust.ac.kr **
 
 ## Page List
 [+**People**](./people.md)
