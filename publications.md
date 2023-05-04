@@ -8,6 +8,8 @@ layout: default
 
 + **[Intl. Jour.] T. An\*, J, Kang, D. Choi, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal.**
 
++ **[Domestic Jour.] <ins>D. Choi</ins>\*, K. Min, "Vehicle Trajectory Forecasting Network based on Static Scene Context Modulation for Autonomous Driving," Trans. of KSAE 2023 (Accepted).**
+
 + **[Intl. Conf.] D. Choi\*, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," ECCV 2022.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
 
 + **[Intl. Jour.] D. Choi\*, S.-J. Han, K. Min, J. Choi, "PathGAN: Local Path Planning with Attentive Generative Adversarial Networks," ETRI Journal, 2022.** [Paper](https://www.researchgate.net/publication/363604723_PathGAN_Local_path_planning_with_attentive_generative_adversarial_networks), [Code](https://github.com/d1024choi/pathgan_pytorch)
