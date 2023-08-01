@@ -9,9 +9,9 @@ layout: default
 + **[Intl. Jour.] T. An\*, J, Kang, <ins>D. Choi</ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal. (Under Revision)**
 
 + **[Intl. Conf.] Y. S. Park, <ins>D. Choi</ins>, K. Min, "Performance Comparison of SAC methods for
-Radar Dynamic Object Classification," The 18th Intl. Conf. on IAS. (Accepted)** 
+Radar Dynamic Object Classification," The 18th Intl. Conf. on IAS.** 
 
-+ **[Domestic Jour.] <ins>D. Choi</ins>\*, K. Min, "Vehicle Trajectory Forecasting Network based on Static Scene Context Modulation for Autonomous Driving," Trans. of KSAE 2023 (Accepted).**
++ **[Domestic Jour.] <ins>D. Choi</ins>\*, K. Min, "Vehicle Trajectory Forecasting Network based on Static Scene Context Modulation for Autonomous Driving," Trans. of KSAE 2023.**
 
 + **[Intl. Conf.] D. Choi\*, K. Min, "Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting," ECCV 2022.** [Arxiv](https://arxiv.org/abs/2207.04624), [Code](https://github.com/d1024choi/HLSTrajForecast)
 
