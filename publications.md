@@ -6,7 +6,7 @@ layout: default
 
 \* corresponding author
 
-+ **[Intl. Jour.] T. An\*, J, Kang, <ins>D. Choi</ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal. (Under Revision)**
++ **[Intl. Jour.] T. An\*, J, Kang, <ins>D. Choi</ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," Submitted to ETRI Journal. (Accepted)**
 
 + **[Intl. Conf.] Y. S. Park, <ins>D. Choi</ins>, K. Min, "Performance Comparison of SAC methods for
 Radar Dynamic Object Classification," The 18th Intl. Conf. on IAS.** 
