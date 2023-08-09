@@ -6,10 +6,12 @@ layout: default
 
 **Our team was founded at ETRI in 2023. Under supervision of Prof. Dooseop Choi, various topics in the field of autonomous driving have been researched and developed. We mainly focus on motion forecasting and planning, 3D object detection and tracking, semantic segmantation.**
 
+
+## News
+
++ **[23-08-09] One paper submitted to ETRI Journal has been accepted!!**
+
 ## Notice
-
-**[23-08-09] One paper submitted to ETRI Journal has been accepted!!**
-
 
 **I am looking to recruit one master or PhD student in Spring, 2024. If you are interested in our research, please do not hesitate to contact me at d1024.choi@etri.re.kr / d1024.choi@ust.ac.kr **
 
