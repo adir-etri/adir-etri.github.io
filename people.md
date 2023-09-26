@@ -9,7 +9,7 @@ layout: default
 
 + **Student**
 
-     [Muhammad Atta Ur Rahman](https://xxx.xxxx) (e-mail: -)
+     [Muhammad Atta Ur Rahman](https://muhammadattaurrahman.github.io/main/) (e-mail: muhammadattaurrahman01@gmail.com)
 
 + **Intern**
 
