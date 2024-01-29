@@ -11,7 +11,7 @@ layout: default
 
      [Muhammad Atta Ur Rahman](https://muhammadattaurrahman.github.io/main/) (e-mail: muhammadattaurrahman01@gmail.com)
 
-     [Jungbin Hong](-) (e-mail: -)
+     [Jeongbin Hong](-) (e-mail: -)
 
 + **Intern**
 
