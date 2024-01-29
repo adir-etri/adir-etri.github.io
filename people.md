@@ -11,6 +11,8 @@ layout: default
 
      [Muhammad Atta Ur Rahman](https://muhammadattaurrahman.github.io/main/) (e-mail: muhammadattaurrahman01@gmail.com)
 
+     [Muhammad Atta Ur Rahman](https://muhammadattaurrahman.github.io/main/) (e-mail: muhammadattaurrahman01@gmail.com)
+
 + **Intern**
 
 [back](./)
