@@ -16,7 +16,7 @@ layout: default
 
 ## Notice
 
-**-**
+**We don't have plans to recruit students this year.**
 
 
 ## Page List
