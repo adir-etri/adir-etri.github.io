@@ -9,6 +9,7 @@ layout: default
 
 ## News
 
++ **[24-06-30] One paper submitted to IROS 2024 has been accepted as an oral paper!!**
 + **[23-08-09] One paper submitted to ETRI Journal has been accepted!!**
 + **[23-06-01] One paper submitted to ICIAS has been accepted!!**
 + **[23-05-04] One paper submitted to Trans. on KSAE has been accepted!!**
