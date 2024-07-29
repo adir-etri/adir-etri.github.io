@@ -6,6 +6,8 @@ layout: default
 
 \* corresponding author
 
++ **[Intl. Conf.] J. Kang, D. Lee, J.-H. Park, T.-H. An, <ins>D. Choi</ins>, K.-W. Min, S. Lee, "Insta-Track: Instance Segmentation Assisted Tracking by Detection," The 15th Intl. Conf. on ICT Convergence.** 
+
 + **[Intl. Conf. (Oral)] <ins>D. Choi</ins>\*, J. Kang, T. An, K. An, K. Min, "Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images ," IROS 2024.** [Arxiv](https://arxiv.org/abs/2407.17003), [Code](https://github.com/d1024choi/ProgressiveQueryRefineNet) 
 
 + **[Intl. Jour.] T. An\*, J, Kang, <ins>D. Choi</ins>, K. Min, "CRFNet: Context ReFinement Network for Semantic Segmentation," ETRI Journal. 2023**
