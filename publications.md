@@ -6,7 +6,11 @@ layout: default
 
 \* corresponding author
 
-+ **[Intl. Conf.] J. Kang, D. Lee, J.-H. Park, T.-H. An, <ins>D. Choi</ins>, K.-W. Min, S. Lee, "Insta-Track: Instance Segmentation Assisted Tracking by Detection," The 15th Intl. Conf. on ICT Convergence.** 
++ **[Intl. Conf.] M. Rahman\*, <ins>D. Choi</ins>, S.-I. Lee, K.-W. Min, "Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models," The 17th Intl. Conf. on Advanced Computational Intelligence, 2025.**
+
++ **[Intl. Conf.] M. Rahman\*, <ins>D. Choi</ins>, K.-W. Min, "LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction," The 17th Intl. Conf. on Advanced Computational Intelligence, 2025.**
+
++ **[Intl. Conf.] J. Kang, D. Lee, J.-H. Park, T.-H. An, <ins>D. Choi</ins>, K.-W. Min, S. Lee, "Insta-Track: Instance Segmentation Assisted Tracking by Detection," The 15th Intl. Conf. on ICT Convergence, 2024.** 
 
 + **[Intl. Conf. (Oral)] <ins>D. Choi</ins>\*, J. Kang, T. An, K. An, K. Min, "Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images ," IROS 2024.** [Arxiv](https://arxiv.org/abs/2407.17003), [Code](https://github.com/d1024choi/ProgressiveQueryRefineNet) 
 
