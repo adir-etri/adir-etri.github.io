@@ -9,6 +9,7 @@ layout: default
 
 ## News
 
++ **[25-10-15] One submitted to to Trans. on KSAE has been accepted!!**
 + **[25-09-08] One submitted to ICTC 2025 has been accepted!!**
 + **[25-04-22] Two papers submitted to ICACI 2025 have been accepted!!**
 + **[24-07-29] One paper submitted to ICTC 2024 has been accepted!!**
