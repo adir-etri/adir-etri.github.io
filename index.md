@@ -9,6 +9,7 @@ layout: default
 
 ## News
 
++ **[26-02-21] One paper submitted to CVPR 2026 has been accepted!!**
 + **[25-10-15] One paper submitted to Trans. on KSAE has been accepted!!**
 + **[25-09-08] One paper submitted to ICTC 2025 has been accepted!!**
 + **[25-04-22] Two papers submitted to ICACI 2025 have been accepted!!**
