@@ -93,6 +93,10 @@ a:hover {
   margin-bottom: 0.35rem;
 }
 
+.pub-list li {
+  scroll-margin-top: 90px;
+}
+
 .example {
   position: relative;
   margin-top: 3rem;

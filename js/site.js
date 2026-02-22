@@ -27,16 +27,26 @@ $(document).ready(function() {
   }
 
   function smoothScroll(e) {
+    var target = this.hash;
+
+    // Keep default behavior for empty hashes and unknown targets.
+    if (!target || target === '#') {
+      return;
+    }
+
+    var $target = $(target);
+    if (!$target.length) {
+      return;
+    }
+
     e.preventDefault();
     $(document).off("scroll");
-    var target = this.hash,
-        menu = target;
-    $target = $(target);
+
     $('html, body').stop().animate({
-        'scrollTop': $target.offset().top-40
-    }, 0, 'swing', function () {
-        window.location.hash = target;
-        $(document).on("scroll", onScroll);
+      'scrollTop': Math.max($target.offset().top - 80, 0)
+    }, 120, 'swing', function () {
+      window.location.hash = target;
+      $(document).on("scroll", onScroll);
     });
   }
 
