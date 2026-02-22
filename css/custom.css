@@ -69,8 +69,8 @@ a:hover {
 
 .docs-header {
   text-transform: uppercase;
-  font-size: 1.35rem;
-  letter-spacing: 0.2rem;
+  font-size: 1.9rem;
+  letter-spacing: 0.16rem;
   font-weight: 600;
 }
 
@@ -95,6 +95,33 @@ a:hover {
 
 .pub-list li {
   scroll-margin-top: 90px;
+}
+
+.corresponding-note {
+  font-size: 1.55rem;
+  margin-bottom: 1.2rem;
+}
+
+.corresponding-star {
+  color: var(--adir-blue);
+  font-size: 1.2em;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: 0.02em;
+  vertical-align: baseline;
+}
+
+.member-subheader {
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 0.06rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0.7rem;
+  text-transform: uppercase;
+}
+
+#members .example {
+  margin-top: 1.1rem;
 }
 
 .example {
@@ -203,6 +230,10 @@ img.grayscale:hover {
     height: 100px;
     left: 0;
     max-height: none;
+  }
+
+  #members .example {
+    min-height: 115px;
   }
 }
 
