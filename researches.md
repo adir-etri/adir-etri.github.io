@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Future Trajectory Forecasting
 
 ![fig1](./images/TrajPred.png)

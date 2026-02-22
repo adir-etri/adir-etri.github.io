@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ADIR Team @ ETRI</title>
+  <meta name="author" content="Dooseop Choi">
+  <meta name="description" content="Homepage of the Autonomous Driving Intelligence Research (ADIR) Team at ETRI.">
+  <meta name="keywords" content="ADIR, ETRI, Autonomous Driving, Motion Forecasting, Planning, BEV Segmentation">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="dist/css/normalize.css">
+  <link rel="stylesheet" href="dist/css/skeleton.css">
+  <link rel="stylesheet" href="css/custom.css">
+  <link href="images/topview.png" rel="shortcut icon">
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="js/site.js"></script>
+</head>
+<body class="code-snippets-visible">
+  <div class="container">
+    <section class="header">
+      <div class="row">
+        <div class="four columns">
+          <div class="lab-wordmark">
+            <div class="lab-acronym">ADIR</div>
+            <div class="lab-subtitle">ETRI Research Team</div>
+          </div>
+        </div>
+        <div class="eight columns" align="left">
+          <h4 class="lab-title">Autonomous Driving Intelligence Research Team</h4>
+          <p class="lab-intro">
+            Founded in 2023 at ETRI, ADIR studies motion forecasting and planning, 3D object detection and tracking,
+            and bird's-eye-view semantic segmentation for autonomous driving.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <div class="navbar-spacer"></div>
+    <nav class="navbar">
+      <div class="container">
+        <ul class="navbar-list">
+          <li class="navbar-item"><a class="navbar-link" href="#about">About ADIR</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#research">Research</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#members">Members</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#publication">Publication</a></li>
+          <li class="navbar-item">
+            <a class="navbar-link" href="#" data-popover="#moreNavPopover">Links</a>
+            <div id="moreNavPopover" class="popover">
+              <ul class="popover-list">
+                <li class="popover-item"><a class="popover-link" href="people.html">People Page</a></li>
+                <li class="popover-item"><a class="popover-link" href="researches.html">Research Page</a></li>
+                <li class="popover-item"><a class="popover-link" href="publications.html">Publication Page</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="docs-section" id="about">
+      <h6 class="docs-header">About ADIR Team</h6>
+      <p>
+        ADIR focuses on robust machine intelligence for real-world autonomous driving systems. Our recent work spans
+        trajectory prediction, local path generation, neural planning, and spatially consistent BEV scene understanding.
+      </p>
+
+      <h6 class="docs-header">News</h6>
+      <ul class="news-list">
+        <li>[2026-02-21] One paper submitted to CVPR 2026 has been accepted.</li>
+        <li>[2025-10-15] One paper submitted to Transactions of KSAE has been accepted.</li>
+        <li>[2025-09-08] One paper submitted to ICTC 2025 has been accepted.</li>
+        <li>[2025-04-22] Two papers submitted to ICACI 2025 have been accepted.</li>
+        <li>[2024-07-29] One paper submitted to ICTC 2024 has been accepted.</li>
+        <li>[2024-06-30] One paper submitted to IROS 2024 has been accepted as an oral paper.</li>
+        <li>[2023-08-09] One paper submitted to ETRI Journal has been accepted.</li>
+        <li>[2023-06-01] One paper submitted to ICIAS has been accepted.</li>
+        <li>[2023-05-04] One paper submitted to Transactions of KSAE has been accepted.</li>
+      </ul>
+
+      <p><strong>Notice</strong>: We do not have plans to recruit students this year.</p>
+    </div>
+
+    <div class="docs-section" id="research">
+      <h6 class="docs-header">Research Highlights</h6>
+      <p>
+        We design data-driven planning and perception methods that generalize across diverse driving conditions.
+      </p>
+
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <img class="grayscale" src="images/TrajPred.png" alt="Future trajectory forecasting">
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Future Trajectory Forecasting</h6>
+          <p class="example-description">
+            Multi-modal trajectory forecasting methods that model interaction context and scene constraints.
+          </p>
+          <a class="button" href="#publication">Related Publications</a>
+        </div>
+      </div>
+
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <img class="grayscale" src="images/LPG.png" alt="Local path generation">
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Local Path Generation for Motion Planning</h6>
+          <p class="example-description">
+            Local planning models that improve safety and smoothness while preserving real-time feasibility.
+          </p>
+          <a class="button" href="#publication">Related Publications</a>
+        </div>
+      </div>
+
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <img class="grayscale" src="images/NMP.png" alt="Neural motion planning">
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Neural Motion Planning</h6>
+          <p class="example-description">
+            Neural planners for closed-loop driving decisions under dynamic traffic interactions.
+          </p>
+          <a class="button" href="#publication">Related Publications</a>
+        </div>
+      </div>
+
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <img class="grayscale" src="images/topview.png" alt="Top-view semantic segmentation">
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Top-View Semantic Segmentation</h6>
+          <p class="example-description">
+            BEV segmentation from multi-camera imagery with geometry-aware regularization.
+          </p>
+          <a class="button" href="#publication">Related Publications</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="docs-section" id="members">
+      <h6 class="docs-header">Principal Investigator</h6>
+      <div class="row example">
+        <div class="example-profile-wrapper">
+          <div class="member-avatar">DC</div>
+        </div>
+        <div class="two offset-by-two column">
+          <b><a href="https://d1024choi.github.io" target="_blank" rel="noopener">Dooseop Choi</a></b>
+          &nbsp; Team Lead, ETRI
+          <p><br>Email: <a href="mailto:d1024.choi@etri.re.kr">d1024.choi@etri.re.kr</a></p>
+        </div>
+      </div>
+
+      <br>
+      <h6 class="docs-header">Students</h6>
+      <div class="row example">
+        <div class="example-profile-wrapper">
+          <div class="member-avatar">MR</div>
+        </div>
+        <div class="two offset-by-two column">
+          <b><a href="https://muhammadattaurrahman.github.io/main/" target="_blank" rel="noopener">Muhammad Atta Ur Rahman</a></b>
+          &nbsp; Student
+          <p><br>Email: <a href="mailto:muhammadattaurrahman01@gmail.com">muhammadattaurrahman01@gmail.com</a></p>
+        </div>
+      </div>
+
+      <div class="row example">
+        <div class="example-profile-wrapper">
+          <div class="member-avatar">JH</div>
+        </div>
+        <div class="two offset-by-two column">
+          <b><a href="https://jeong-bin.github.io/" target="_blank" rel="noopener">Jeongbin Hong</a></b>
+          &nbsp; Student
+          <p><br>Email: <a href="mailto:hjb3880@etri.re.kr">hjb3880@etri.re.kr</a></p>
+        </div>
+      </div>
+
+      <br>
+      <h6 class="docs-header">Interns</h6>
+      <p>Intern positions will be announced when openings become available.</p>
+    </div>
+
+    <div class="docs-section" id="publication">
+      <h6 class="docs-header">Selected Publications</h6>
+      <ul class="pub-list">
+        <li>
+          <i>CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird’s-Eye-View Semantic Segmentation</i><br>
+          J. Hong, D. Choi*, T. An, K. An, K. Min.<br><b>CVPR</b> 2026 [Accepted]
+        </li>
+        <li>
+          <i>Interaction Graph Pruning for Efficient and Robust Trajectory Prediction</i><br>
+          M. Rahman, J. Hong, D. Choi*, K. Min.<br><b>Transactions of KSAE</b> 2025 [Accepted]
+        </li>
+        <li>
+          <i>Regularizing Neural Networks for BEV Semantic Segmentation via Inter-class Hierarchy and Spatially-aware Weight Adjustment</i><br>
+          J. Hong*, D. Choi, M. Rahman, K. An, K.-W. Min.<br><b>ICTC</b> 2025
+        </li>
+        <li>
+          <i>Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models</i><br>
+          M. Rahman*, D. Choi, S.-I. Lee, K.-W. Min.<br><b>ICACI</b> 2025
+        </li>
+        <li>
+          <i>LANet: A Lane Boundaries-Aware Approach for Robust Trajectory Prediction</i><br>
+          M. Rahman*, D. Choi, K.-W. Min.<br><b>ICACI</b> 2025
+        </li>
+        <li>
+          <i>Insta-Track: Instance Segmentation Assisted Tracking by Detection</i><br>
+          J. Kang, D. Lee, J.-H. Park, T.-H. An, D. Choi, K.-W. Min, S. Lee.<br><b>ICTC</b> 2024
+        </li>
+        <li>
+          <i>Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images</i><br>
+          D. Choi*, J. Kang, T. An, K. An, K. Min.<br><b>IROS (Oral)</b> 2024
+          <a href="https://arxiv.org/abs/2407.17003" target="_blank" rel="noopener">[arXiv]</a>
+          <a href="https://github.com/d1024choi/ProgressiveQueryRefineNet" target="_blank" rel="noopener">[Code]</a>
+        </li>
+        <li>
+          <i>CRFNet: Context ReFinement Network for Semantic Segmentation</i><br>
+          T. An*, J. Kang, D. Choi, K. Min.<br><b>ETRI Journal</b> 2023
+        </li>
+        <li>
+          <i>Vehicle Trajectory Forecasting Network based on Static Scene Context Modulation for Autonomous Driving</i><br>
+          D. Choi*, K. Min.<br><b>Transactions of KSAE</b> 2023
+        </li>
+        <li>
+          <i>Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting</i><br>
+          D. Choi*, K. Min.<br><b>ECCV</b> 2022
+          <a href="https://arxiv.org/abs/2207.04624" target="_blank" rel="noopener">[arXiv]</a>
+          <a href="https://github.com/d1024choi/HLSTrajForecast" target="_blank" rel="noopener">[Code]</a>
+        </li>
+        <li>
+          <i>PathGAN: Local Path Planning with Attentive Generative Adversarial Networks</i><br>
+          D. Choi*, S.-J. Han, K. Min, J. Choi.<br><b>ETRI Journal</b> 2022
+          <a href="https://github.com/d1024choi/pathgan_pytorch" target="_blank" rel="noopener">[Code]</a>
+        </li>
+        <li>
+          <i>Regularising Neural Networks for Future Trajectory Prediction via Inverse Reinforcement Learning Framework</i><br>
+          D. Choi*, K. Min, J. Choi.<br><b>IET Computer Vision</b> 2020
+          <a href="https://arxiv.org/abs/1907.04525" target="_blank" rel="noopener">[arXiv]</a>
+          <a href="https://github.com/d1024choi/traj-pred-irl" target="_blank" rel="noopener">[Code]</a>
+        </li>
+      </ul>
+      <p><strong>Full list</strong>: <a href="publications.html">View all publications</a></p>
+    </div>
+
+    <footer class="site-footer">
+      <p>
+        Autonomous Driving Intelligence Research (ADIR) Team, Electronics and Telecommunications Research Institute (ETRI).
+      </p>
+      <p>
+        <a href="https://hits.seeyoufarm.com" target="_blank" rel="noopener">Visitor Counter</a>
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
